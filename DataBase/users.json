@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "5fcf75fbfde783326cd59685"
+  },
+  "first_name": "user",
+  "last_name": "user",
+  "email": "user@gmail.com",
+  "password": "$2b$10$i8tI4/R.5nPYbDr/f.2fG.YLSLv3Z8AV7ZGECHudDwEPJm55zRrUC",
+  "date": {
+    "$date": "2020-12-08T12:47:56.060Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd09380c5221034a8a46020"
+  },
+  "first_name": "admin",
+  "last_name": "admin",
+  "email": "admin@gmail.com",
+  "password": "admin123"
+},{
+  "_id": {
+    "$oid": "5fd093b3c5221034a8a46021"
+  },
+  "first_name": "abc",
+  "last_name": "abc",
+  "email": "abc@gmail.com",
+  "password": "abc123"
+}]
